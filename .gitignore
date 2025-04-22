@@ -1,0 +1,9 @@
+# Ignore node modules (if you use any in future)
+node_modules/
+
+# Ignore any environment variable files (for API keys if moved to .env)
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
